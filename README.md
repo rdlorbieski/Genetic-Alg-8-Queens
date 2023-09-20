@@ -41,4 +41,4 @@ python main.py
 
 
 ## Demonstration of Results
-![Logo](https://rodolfo.lorbieski.eti.br/portfolio/8queens.png)
+![Logo](https://rodolfo.lorbieski.eti.br/img/portfolio/projetos/8queens.png)
